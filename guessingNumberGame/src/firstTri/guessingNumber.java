@@ -13,6 +13,7 @@ public class guessingNumber {
 		System.out.println("Nice to meet you " + name + "!");
 		boolean redo = true;
 		while(redo)
+			//hhhh
 		{
 			
 		Scanner s2 = new Scanner(System.in);
